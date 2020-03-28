@@ -8,3 +8,5 @@ npm install website-scraper
 and then 
 
 node server.js
+
+After successful run it should create a folder with source code of that website in current directory
