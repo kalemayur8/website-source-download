@@ -1,5 +1,5 @@
 const scrape = require('website-scraper');
-const websiteUrl = 'https://www.washingtonpost.com/graphics/2020/world/corona-simulator/';
+const websiteUrl = 'https://website.com/';
  
 scrape({
     urls: [websiteUrl],
